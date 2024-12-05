@@ -15,6 +15,7 @@ This project aims to predict whether an individual earns above or below a specif
 * hoursperweek: The number of hours worked per week.
 * nativecountry: The individual’s native country.
 * SalStat: The income classification (e.g., ≤50K, >50K).
+  
 # Objective:
 To classify individuals into income categories (≤50K or >50K) using the KNN algorithm and analyze the impact of various demographic and work-related features on income levels.
 
